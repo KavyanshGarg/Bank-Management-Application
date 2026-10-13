@@ -1,0 +1,15 @@
+# Customer/account data
+accounts.txt
+
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
